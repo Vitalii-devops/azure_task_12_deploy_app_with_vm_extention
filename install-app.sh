@@ -22,4 +22,3 @@ systemctl daemon-reload
 systemctl start todoapp
 systemctl enable todoapp
 
-# end of script
