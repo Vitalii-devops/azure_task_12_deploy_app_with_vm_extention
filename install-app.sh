@@ -21,3 +21,5 @@ mv /app/todoapp.service /etc/systemd/system/
 systemctl daemon-reload
 systemctl start todoapp
 systemctl enable todoapp
+
+# end of script
